@@ -1,4 +1,4 @@
-# Hi! 😄 My name is Iván Verdugo
+# Hi there! 😄 My name is Iván Verdugo
 
 ### Fullstack Developer
 ![Code](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif)
