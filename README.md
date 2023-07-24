@@ -1,14 +1,12 @@
 # Hi! 😄 My name is Iván Verdugo
 
 ### Fullstack Developer
-![Code](https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif)
+![Code](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif)
 
 ## About me:
 - 🎼 I'm a former composer turned web developer, with 10 years of experience managing recording studios and handling projects for professional, amateur, and large enterprise clients. 
 - 💻 Currently, I'm training as a Fullstack Developer and have experience in Front End using technologies such as HTML, CSS, JavaScript, and Vue.js framework. 
 - 🌟 I'm adaptable, have an interest in continuous learning, and a high ability to identify and solve problems.
-
-Simplemente copia y pega los emoticones al lado de cada punto de la lista para agregar un toque de personalidad a tu descripción. ¡Espero que te gusten!
 
 ## Education:
 - Composition and Instrumental Arrangements - Escuela Moderna de Musica (2009-2013)
@@ -23,7 +21,6 @@ Simplemente copia y pega los emoticones al lado de cada punto de la lista para a
 [![NodeJS](https://img.shields.io/badge/node-5FA04E?style=flat-square=nodedotjs&logoColor=black&labelColor=5FA04E)](https://github.com/Ivan270/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Ivan270/)
 <br>
-
 [![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Ivan270/)
 [![Sequelize](https://img.shields.io/badge/sequelize-2F3A69?style=flat-square&logo=sequelize&logoColor=black&labelColor=53B0E6)](https://github.com/Ivan270/)
 [![Sequelize](https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)](https://github.com/Ivan270/)
