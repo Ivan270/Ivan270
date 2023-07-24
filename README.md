@@ -35,6 +35,7 @@
 
 ## Thanks for visiting my profile! 
 If you want to know more about me or work on a project together, feel free to contact me: 
+<br>
 [![Email](https://img.shields.io/badge/ivan270@gmail.com-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ivan270@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ivan-verdugo-c/)
 </br>
