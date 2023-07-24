@@ -1,7 +1,7 @@
 # Hi! 😄 My name is Iván Verdugo
 
 ### Fullstack Developer
-![Code](https://giphy.com/embed/KGhpQ5NMoWKQurlHwI)
+![Code](https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif)
 
 ## About me:
 - 🎼 I'm a former composer turned web developer, with 10 years of experience managing recording studios and handling projects for professional, amateur, and large enterprise clients. 
