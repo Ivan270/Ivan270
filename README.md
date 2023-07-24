@@ -20,10 +20,11 @@ Simplemente copia y pega los emoticones al lado de cada punto de la lista para a
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)](https://github.com/Ivan270/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)](https://github.com/Ivan270/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Ivan270/)
-<br>
 [![NodeJS](https://img.shields.io/badge/node-5FA04E?style=flat-square=nodedotjs&logoColor=black&labelColor=5FA04E)](https://github.com/Ivan270/)
-[![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Ivan270/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Ivan270/)
+<br>
+
+[![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Ivan270/)
 [![Sequelize](https://img.shields.io/badge/sequelize-2F3A69?style=flat-square&logo=sequelize&logoColor=black&labelColor=53B0E6)](https://github.com/Ivan270/)
 [![Sequelize](https://img.shields.io/badge/-Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)](https://github.com/Ivan270/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://github.com/Ivan270/)
@@ -38,5 +39,5 @@ Simplemente copia y pega los emoticones al lado de cada punto de la lista para a
 ## Thanks for visiting my profile! 
 If you want to know more about me or work on a project together, feel free to contact me: 
 [![Email](https://img.shields.io/badge/ivan270@gmail.com-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ivan270@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ivan-verdugo-c/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ivan-verdugo-c/)
 </br>
