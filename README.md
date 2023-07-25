@@ -1,7 +1,4 @@
-# Hi there! 😄 My name is Iván Verdugo
-
-### Fullstack Developer
-![Code](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif)
+![https://github.com/Ivan270](https://raw.githubusercontent.com/Ivan270/Ivan270/main/ivan_banner.png)
 
 ## About me:
 - 🎼 I'm a former composer turned web developer, with 10 years of experience managing recording studios and handling projects for professional, amateur, and large enterprise clients. 
