@@ -2,7 +2,7 @@
 
 ## About me:
 - 🎼 I'm a former composer turned web developer, with 10 years of experience managing recording studios and handling projects for professional, amateur, and large enterprise clients. 
-- 💻 Currently, I'm training as a Fullstack Developer and have experience in Front End using technologies such as HTML, CSS, JavaScript, and Vue.js framework. 
+- 💻 Currently, I'm training as a Cloud Architect and have experience as Front End and Fullstack Developer. 
 - 🌟 I'm adaptable, have an interest in continuous learning, and a high ability to identify and solve problems.
 
 ## Education:
