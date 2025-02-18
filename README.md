@@ -2,13 +2,14 @@
 
 ## About me:
 - 🎼 I'm a former composer turned web developer, with 10 years of experience managing recording studios and handling projects for professional, amateur, and large enterprise clients. 
-- 💻 Currently, I'm training as a Cloud Architect and have experience as Front End and Fullstack Developer. 
+- 💻 Currently, I'm training in Data Science and have experience as a Front End and Fullstack Developer. 
 - 🌟 I'm adaptable, have an interest in continuous learning, and a high ability to identify and solve problems.
 
 ## Education:
 - Composition and Instrumental Arrangements - Escuela Moderna de Musica (2009-2013)
 - Front End Trainee - Academia Talento Digital (March-August 2022)
 - Fullstack Javascript Trainee - Academia Talento Digital (March-July 2023)
+- Cloud Architecture - Academia Talento Digital (July-September 2024)
 - SCRUM Foundation Certificate - Certiprof (March 2023)
 
 ## Skills: 
